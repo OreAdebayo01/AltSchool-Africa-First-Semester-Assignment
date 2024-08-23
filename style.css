@@ -87,7 +87,7 @@ footer {
         @media screen and (max-width:768px){
             display: flex;
             flex-direction: column;
-            gap: 5px;
+            gap: 10px;
         }
 }
 
@@ -116,18 +116,9 @@ input, select{
 }
 #form-container p{
     font-size: medium;
+    text-align: left;
 }
-/*@media (max-width: 600px) {
-    #form-container {
-        margin: 10px 5%;
-        padding: 10px;
-    }
-    .signup-form {
-        grid-template-columns: 1fr;
-        gap: 10px;
-    }
-}
-*/
+
 
 /*additional style for table.html*/
 .school-intro p {
