@@ -124,16 +124,20 @@ input, select{
 .school-intro p {
     font-size: medium;
     text-align: center;
+    margin: 0 15px;
 }
 
 #table-container p {
     font-size: medium;
 }
 
-table {
+table, .soe-table{
     width: 100%;
     border-collapse: collapse;
+    overflow-x: auto;
 }
+
 th, td {
     border: 1px solid #393D3E;
+    vertical-align: top;
 }
