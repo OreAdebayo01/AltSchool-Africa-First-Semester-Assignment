@@ -41,7 +41,10 @@ body {
     padding: 5%;
     gap: 5rem;
     align-items: center;
-    justify-content: center;    
+    justify-content: center;
+        @media screen and (max-width:768px){
+            flex-direction: column;
+        }
 }
 .intro-container > * {
     flex: 1;
@@ -50,6 +53,7 @@ body {
     padding-right:0%;
     margin-right:0%;
 }
+
 p {
     line-height: 1.5;
     text-align: justify;
@@ -67,10 +71,19 @@ p {
     justify-content: center;
     align-items: center;
     text-align: center;
+        @media screen and (max-width:768px){
+            flex-direction: column;
+        }
 }
 .fav-quote{
     background-color: #72B468;
     padding: 5%;
+}
+#video-container video {
+    @media screen and (max-width:768px){
+        width: 70%;
+        height: auto;
+    }
 }
 .fav-song{
     background-color: antiquewhite;

@@ -74,12 +74,21 @@ footer {
     padding: 5%;
     background-color: white;
     border-radius: 10px;
+        @media screen and (max-width:768px){
+            margin: 5px 5%;
+            padding: 2%;
+        } 
 }
 
 .signup-form{
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 20px;
+        @media screen and (max-width:768px){
+            display: flex;
+            flex-direction: column;
+            gap: 5px;
+        }
 }
 
 .form-group{
