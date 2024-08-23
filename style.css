@@ -114,8 +114,10 @@ input, select{
     border: 1px solid #ccc; 
     border-radius: 5px;
 }
-
-@media (max-width: 600px) {
+#form-container p{
+    font-size: medium;
+}
+/*@media (max-width: 600px) {
     #form-container {
         margin: 10px 5%;
         padding: 10px;
@@ -125,7 +127,7 @@ input, select{
         gap: 10px;
     }
 }
-
+*/
 
 /*additional style for table.html*/
 .school-intro p {
