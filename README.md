@@ -3,10 +3,10 @@
 I created these after three months of learning HTML, CSS and JavaScript ...I'm proud of myself 😊😊
 
 View link to the webpages below:
-- [index.html](https://adebayo-a-oreolwa.netlify.app/)
-- [form.html](https://adebayo-a-oreolwa.netlify.app/form)
-- [table.html](https://adebayo-a-oreolwa.netlify.app/table)
-- [media.html](https://adebayo-a-oreolwa.netlify.app/media)
+- [index.html](https://adebayo-a-oreoluwa.netlify.app/)
+- [form.html](https://adebayo-a-oreoluwa.netlify.app/form)
+- [table.html](https://adebayo-a-oreoluwa.netlify.app/table)
+- [media.html](https://adebayo-a-oreoluwa.netlify.app/media)
 
 Incase you're wondering what the assignment prompt is:
 ![Prompt of Assignment 1](https://i.postimg.cc/Sxz1yjqR/assignment-1.jpg)
